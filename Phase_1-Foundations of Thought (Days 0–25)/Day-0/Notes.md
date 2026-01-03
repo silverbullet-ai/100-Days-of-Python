@@ -1,93 +1,48 @@
-<<<<<<< HEAD
-# Day 0 Notes – Before Writing Code
+# Day 0 Notes
 
+## What is Python?
+Python is a **high-level, interpreted, general-purpose programming language** created by Guido van Rossum.
 
+It emphasizes:
+- Readability
+- Simplicity
+- Expressiveness
 
-## Why Python?
+Python allows programmers to focus more on **problem solving** rather than **syntax complexity**.
 
-* ###### Readable and expressive
-* ###### Powerful yet beginner-friendly
-* ###### Used in automation, AI, backend, data science, scripting, and more
-
-
-
-## Learning Philosophy
-
-* ###### Learn concepts deeply, not fast
-* ###### Write code, not just read it
-* ###### Break things → fix them → understand them
-
-
-
-## Rules for This Journey
-
-1. ###### Show up daily (even 15 minutes counts)
-2. ###### Write notes in my own words
-3. ###### Do not skip fundamentals
-4. ###### Revisit old code and improve it
-5. ###### Focus on clarity over cleverness
-
-
-
-## What Python Is
-
-* ###### An interpreted language
-* ###### High-level
-* ###### Dynamically typed
-* ###### Object-oriented and multi-paradigm
-
-
-
-## What I Expect After 100 Days
-
-* ###### Strong fundamentals
-* ###### Confidence reading others’ code
-* ###### Ability to solve problems logically
-* ###### Clean coding habits
-=======
-# Day 0 Notes – Before Writing Code
-
-
+---
 
 ## Why Python?
+Python was designed to:
+- Reduce boilerplate code
+- Read almost like English
+- Be beginner-friendly yet powerful
 
-* ###### Readable and expressive
-* ###### Powerful yet beginner-friendly
-* ###### Used in automation, AI, backend, data science, scripting, and more
+Python is used in:
+- Web development
+- Data science
+- AI/ML
+- Automation
+- System scripting
 
+---
 
+## How Python Works (Very High Level)
+1. You write Python code (`.py` file)
+2. Python interpreter reads it line by line
+3. Code is converted to bytecode
+4. Bytecode runs on Python Virtual Machine (PVM)
 
-## Learning Philosophy
+Unlike C/C++, Python does NOT need manual compilation.
 
-* ###### Learn concepts deeply, not fast
-* ###### Write code, not just read it
-* ###### Break things → fix them → understand them
+---
 
+## Learning Mindset for This Journey
+- Consistency > Intensity
+- Understanding > Memorizing
+- Clean code > Clever code
+- Patience is non-negotiable
 
-
-## Rules for This Journey
-
-1. ###### Show up daily (even 15 minutes counts)
-2. ###### Write notes in my own words
-3. ###### Do not skip fundamentals
-4. ###### Revisit old code and improve it
-5. ###### Focus on clarity over cleverness
-
-
-
-## What Python Is
-
-* ###### An interpreted language
-* ###### High-level
-* ###### Dynamically typed
-* ###### Object-oriented and multi-paradigm
-
-
-
-## What I Expect After 100 Days
-
-* ###### Strong fundamentals
-* ###### Confidence reading others’ code
-* ###### Ability to solve problems logically
-* ###### Clean coding habits
->>>>>>> 491a289188ea4cea322fcfd6facaf43f4c49c667
+Day 0 is successful if:
+- The environment is ready
+- The mindset is clear
