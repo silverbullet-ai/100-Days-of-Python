@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Day 1 — Python Foundations 🐍
 
 
@@ -23,7 +22,7 @@ Strong foundations lead to strong systems.
 
 
 
-=======
+
 # Day 1 — Python Foundations 🐍
 
 
