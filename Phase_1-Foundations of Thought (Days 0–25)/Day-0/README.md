@@ -7,3 +7,4 @@ Topics covered:
 - Why Python exists
 - How Python executes code
 - Setting the right learning mindset
+

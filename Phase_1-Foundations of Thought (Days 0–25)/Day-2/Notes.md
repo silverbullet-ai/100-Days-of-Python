@@ -86,3 +86,4 @@ age = int(input("Enter your age: "))
 Python does NOT need you to declare types explicitly.
 Types are decided at runtime.
 
+

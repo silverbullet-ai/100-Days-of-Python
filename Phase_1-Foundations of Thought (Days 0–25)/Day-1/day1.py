@@ -17,4 +17,8 @@ print("Difference:", a - b)
 print("Product:", a * b)
 print("Division:", a / b)
 
+<<<<<<< HEAD
 # End of Day 1
+=======
+# End of Day 1
+>>>>>>> e7629b3dc1aac9acda90c11b41c1c2d3a114ca40
