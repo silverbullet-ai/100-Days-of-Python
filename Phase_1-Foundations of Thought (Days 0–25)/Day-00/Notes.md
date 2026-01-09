@@ -1,5 +1,6 @@
 # Day 0 Notes
 
+
 ## What is Python?
 Python is a **high-level, interpreted, general-purpose programming language** created by Guido van Rossum.
 
