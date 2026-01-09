@@ -15,6 +15,5 @@ Topics covered:
 * return statement
 
 
-
 Functions help avoid repetition and improve clarity.
 
