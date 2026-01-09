@@ -1,7 +1,9 @@
 # Day 5 Notes — Loops
 
 
+
 ## Why Loops?
+
 
 
 Loops allow us to **repeat a block of code** without writing it multiple times.
