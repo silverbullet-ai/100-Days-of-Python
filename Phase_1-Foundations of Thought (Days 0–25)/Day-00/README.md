@@ -1,5 +1,6 @@
 # Day 0 — Orientation & Setup
 
+
 Day 0 is about **understanding Python as a language**, not rushing into writing code.
 
 Topics covered:
