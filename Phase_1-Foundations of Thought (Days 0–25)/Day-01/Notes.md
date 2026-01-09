@@ -61,7 +61,6 @@ Python executes **top to bottom**.
 ---
 
 
-
 ## First Python Concepts
 
 * `print()` → outputs data to the screen
@@ -70,5 +69,4 @@ Python executes **top to bottom**.
   * Single-line comments start with `#`
 
 * Python is **case-sensitive**
-
 
