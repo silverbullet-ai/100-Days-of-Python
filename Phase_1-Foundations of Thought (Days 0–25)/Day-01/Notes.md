@@ -1,6 +1,5 @@
 # Day 1 Notes — Python Foundations
 
-
 ## What is Python?
 
 
