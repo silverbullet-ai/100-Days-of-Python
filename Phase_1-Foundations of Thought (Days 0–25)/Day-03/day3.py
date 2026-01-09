@@ -54,5 +54,6 @@ result_with_brackets = (10 + 2) * 5
 print("Without brackets:", result)
 print("With brackets:", result_with_brackets)
 
+
 print("\nDay 3 completed successfully!")
 
