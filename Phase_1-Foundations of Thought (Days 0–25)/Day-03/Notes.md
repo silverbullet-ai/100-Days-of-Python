@@ -1,7 +1,6 @@
 # Day 3 Notes — Operators \& Expressions
 
 
-
 ## What is an Operator?
 
 
