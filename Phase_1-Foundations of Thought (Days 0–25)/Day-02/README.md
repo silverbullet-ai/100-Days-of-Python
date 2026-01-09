@@ -1,7 +1,6 @@
 # Day 2 — Variables, Data Types \& Input
 
 
-
 Today I learned how Python stores data using variables and how different
 data types behave.
 
