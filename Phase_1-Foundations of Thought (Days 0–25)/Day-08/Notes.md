@@ -1,7 +1,6 @@
 # Day 8 Notes — Functions
 
 
-
 ## Why Functions?
 
 
