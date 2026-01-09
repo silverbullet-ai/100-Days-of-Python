@@ -43,6 +43,7 @@ Unlike C/C++, Python does NOT need manual compilation.
 - Clean code > Clever code
 - Patience is non-negotiable
 
+
 Day 0 is successful if:
 - The environment is ready
 - The mindset is clear
