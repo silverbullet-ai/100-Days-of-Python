@@ -83,7 +83,6 @@ func(a=10, 20)
 ## Why Keyword Arguments Matter
 
 
-
 * Improves readability
 * Avoids mistakes
 * Safer for long parameter lists
