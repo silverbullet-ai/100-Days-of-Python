@@ -17,4 +17,3 @@ Topics covered:
 
 
 This is the foundation of logical thinking in programming.
-
