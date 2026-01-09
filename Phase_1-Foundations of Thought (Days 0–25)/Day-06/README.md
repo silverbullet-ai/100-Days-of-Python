@@ -1,7 +1,6 @@
 # Day 6 — Nested Loops \& Pattern Thinking
 
 
-
 Today I learned how loops can exist inside other loops and how they
 work together to create patterns.
 
