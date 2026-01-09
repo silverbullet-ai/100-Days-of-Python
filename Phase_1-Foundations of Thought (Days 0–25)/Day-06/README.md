@@ -17,6 +17,5 @@ Topics covered:
 * Logical thinking using loops
 
 
-
 This day focuses on sharpening problem-solving skills.
 
