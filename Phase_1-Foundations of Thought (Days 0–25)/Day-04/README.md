@@ -1,7 +1,6 @@
 # Day 4 — Conditional Statements
 
 
-
 Today I learned how Python makes decisions using conditional statements.
 
 Topics covered:
