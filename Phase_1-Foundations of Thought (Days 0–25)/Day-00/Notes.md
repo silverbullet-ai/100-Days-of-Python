@@ -24,7 +24,7 @@ Python is used in:
 - AI/ML
 - Automation
 - System scripting
-
+  
 ---
 
 ## How Python Works (Very High Level)
