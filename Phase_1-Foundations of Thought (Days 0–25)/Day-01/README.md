@@ -16,7 +16,6 @@ Today marks the official start of my **100 Days of Python** journey.
 * Understanding print statements and comments
 
 
-
 This day is about **clarity, not speed**.
 Strong foundations lead to strong systems.
 
