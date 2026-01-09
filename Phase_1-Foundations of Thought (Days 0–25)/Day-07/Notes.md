@@ -1,7 +1,6 @@
 # Day 7 Notes — Loop Control
 
 
-
 ## break
 
 
