@@ -24,4 +24,5 @@ for row in range(5, 0, -1):
         print("*", end=" ")
     print()
 
+
 print("\nDay 6 completed successfully!")
