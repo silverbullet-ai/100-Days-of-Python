@@ -29,6 +29,5 @@ print()
 print("Hello", user_name)
 print("Next year, your age will be:", user_age + 1)
 
+
 print("\nDay 2 completed successfully!")
-
-
