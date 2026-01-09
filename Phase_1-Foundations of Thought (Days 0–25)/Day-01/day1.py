@@ -10,6 +10,7 @@ print("Day 1: Foundations")
 name = "Aahish"
 print("My name is", name)
 
+
 # Simple arithmetic
 a = 10
 b = 5
