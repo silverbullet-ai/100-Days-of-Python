@@ -1,7 +1,6 @@
 # Day 2 Notes — Variables \& Data Types
 
 
-
 ## What is a Variable?
 
 
