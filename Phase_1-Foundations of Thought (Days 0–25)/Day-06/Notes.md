@@ -1,7 +1,6 @@
 # Day 6 Notes — Nested Loops
 
 
-
 ## What is a Nested Loop?
 
 
