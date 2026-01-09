@@ -107,4 +107,3 @@ Python follows a priority order:
 8. or
 
 Parentheses () can be used to control order.
-
