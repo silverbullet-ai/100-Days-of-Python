@@ -1,4 +1,4 @@
-# Day 34 Notes — Method Overriding \& Polymorphism (Part 1)
+# Day 34 Notes — Method Overriding \& Polymorphism
 
 
 

@@ -1,4 +1,4 @@
-# Day 34 — Method Overriding \& Polymorphism (Part 1)
+# Day 34 — Method Overriding \& Polymorphism
 
 
 
