@@ -1,9 +1,3 @@
-
----
-
-## 🧪 `Day-37/day37_str_repr_comparisons.py`
-
-```python
 # Day 37 — __str__, __repr__ & Comparisons
 
 print("STR, REPR & COMPARISONS PRACTICE\n")
