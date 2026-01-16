@@ -9,7 +9,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-print("PROGRAM STARTED (using print)\n")
+print("PROGRAM STARTED (using print)\n", flush = 'True')
 
 
 def divide_numbers(a: float, b: float) -> float:
