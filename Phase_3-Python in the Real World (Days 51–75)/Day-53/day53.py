@@ -9,7 +9,13 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-print("PROGRAM STARTED (using print)\n", flush = 'True')
+# NOTE:
+# Try removing `flush=True` and run this program in both
+# Windows Command Prompt and Git Bash.
+# Observe the difference in output order.
+# This demonstrates why `print()` is avoided in production
+# and why logging is preferred.
+print("PROGRAM STARTED (using print)\n", flush=True)
 
 
 def divide_numbers(a: float, b: float) -> float:
