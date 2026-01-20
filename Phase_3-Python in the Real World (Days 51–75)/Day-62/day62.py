@@ -27,7 +27,9 @@ def measure(func, data, target):
 
 def main():
     data = list(range(10_000))
-    target = 19_998
+    target = 19_998         # We intentionally chose a target that forces the algorithm to explore the entire data set,
+                            # so the measured time reflects the worst-case complexity.
+                            # The algorithm cannot take longer than this for that input size.
 
     linear_time = measure(linear_search, data, target)
     quadratic_time = measure(quadratic_search, data, target)
