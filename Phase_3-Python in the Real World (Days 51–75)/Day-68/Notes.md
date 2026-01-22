@@ -109,3 +109,50 @@ we can safely learn:
 - Multiprocessing
 
 Without confusion.
+
+---
+
+## The GIL Today & the Road Ahead (Important Clarification)
+
+Historically, Python (CPython) uses the **Global Interpreter Lock (GIL)**,
+which allows only one thread to execute Python bytecode at a time.
+
+This affects **CPU-bound parallelism**, not I/O-bound concurrency.
+
+---
+
+## Recent Developments (Python 3.13+)
+
+Python has begun a **transition toward a GIL-optional future**:
+
+- PEP 703 introduced **free-threaded Python**
+- Python now ships with:
+  - A **GIL-enabled build** (default, stable)
+  - A **free-threaded build** (experimental, opt-in)
+
+Important:
+- The GIL is **not removed by default**
+- The ecosystem is still adapting
+- Many C extensions assume the GIL exists
+
+---
+
+## What This Means in Practice
+
+As of today and the near future:
+- Threads are still best for **I/O-bound concurrency**
+- CPU-bound parallelism still prefers **multiprocessing**
+- Design decisions still matter more than runtime details
+
+The mental models learned today remain valid.
+
+---
+
+## Key Insight
+
+> The GIL is being *relaxed*, not erased.
+> Correct concurrency thinking outlives implementation details.
+
+Understanding concurrency vs parallelism is still essential,
+even in a future without the GIL.
+
