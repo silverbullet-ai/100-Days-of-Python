@@ -50,7 +50,7 @@ python -m unittest discover
 
 ## About __init__.py
 
-Both the **code/** and **tests/** directories contain an empty **____init____.py** file.
+Both the **code/** and **tests/** directories contain an empty __init__.py file.
 
 These files are added to:
 - Mark both directories as Python packages
