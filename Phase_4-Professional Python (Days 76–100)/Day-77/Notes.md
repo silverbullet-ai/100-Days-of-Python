@@ -46,6 +46,8 @@ When running:
 ```bash
 python -m unittest discover
 ```
+This command explicitly tells `unittest` where the test files live,
+ensuring consistent and predictable test discovery.
 ---
 
 ## About `__init__.py`
