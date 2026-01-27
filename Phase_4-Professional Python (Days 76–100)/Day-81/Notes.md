@@ -91,5 +91,4 @@ python code/buggy_service.py
 	- Which assumption failed?
 
 The fix is trivial.
-
 The **understanding** is not.
