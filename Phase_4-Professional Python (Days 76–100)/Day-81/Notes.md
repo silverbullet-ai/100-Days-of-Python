@@ -90,5 +90,5 @@ python code/buggy_service.py
 	- Why does it occur?
 	- Which assumption failed?
 
-The fix is trivial.
-The *understanding* is not.
+> The fix is trivial.
+> The **understanding** is not.
